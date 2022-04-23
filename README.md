@@ -1,24 +1,8 @@
-# cium-pet-frontend
+# Cium Pet Frontend.
 
-## Project setup
-```
-npm install
-```
+This is a simple pet helpfully service application powered by Vue3.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## How to run?
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- `npm install`
+- `npm run serve:local`
